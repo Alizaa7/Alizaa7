@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alizaa7
 - 👀 I’m interested in web development and graphic designing 
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on projects related to designing 
+- I’m looking to collaborate on projects related to designing 
 - 📫 How to reach me alizakhan070106@gmail.com
 
 <!---
