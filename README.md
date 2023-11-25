@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Alizaa7
-- 👀 I’m interested in web development and graphic designing 
-- 🌱 I’m currently learning web development 
-- I’m looking to collaborate on projects related to designing 
-- 📫 How to reach me alizakhan070106@gmail.com
+Hello, I'm Aliza Khan! 👋
+I'm a 3rd-year computer engineering diploma student from Mumbai. Currently delving into the exciting world of web development, I find joy in designing user friendly interface and express my thoughts through blogging.  I'm currently refining my skills in front-end web development and exploring the realms of React.
 
-<!---
-Alizaa7/Alizaa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Technologies & Tools: C, C++, Java, SQL, 
+Currently learning: React
+🚀 What I'm up to:
+🔍 Exploring the fascinating universe of web development.
+📝 Writing blogs for fun and sharing my insights.
+🎨 Enjoying UI designing as a delightful hobby.
+
+🤝Reach me via email at alizakhan070106@gmail.com
+
+
