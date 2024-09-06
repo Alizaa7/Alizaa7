@@ -1,11 +1,8 @@
 Hello, I'm Aliza Khan! 👋
 
-I'm a 3rd-year computer engineering diploma student from Mumbai. Currently delving into the exciting world of web development, I find joy in designing user friendly interface and express my thoughts through blogging.  I'm currently refining my skills in front-end web development and exploring the realms of React.
+I'm a Computer Engineering student at VESIT and a diploma graduate from Government Polytechnic Mumbai. Passionate about technology, web development, and AI, I recently completed an Angular Front-End Developer internship at OpenBots Inc. As a core member of the Diploma Tech Community, I enjoy collaborating on tech initiatives and staying curious about the future of AI and development.
 
-
-🔧 Technologies & Tools: C, C++, Java, SQL
-
-Currently learning: React
+🔧 Technologies & Tools: C, C++, Java, SQL, Angular, React.
 
 🚀 What I'm up to:
 
@@ -14,6 +11,6 @@ Currently learning: React
 🎨 Enjoying UI designing as a delightful hobby.
 
 
-🤝Reach me via email at alizakhan070106@gmail.com
+🤝Reach me via email at alizaimtiyazkhan@gmail.com
 
 
